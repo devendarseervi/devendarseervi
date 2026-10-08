@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/devendar-seervi-8b297437b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -266,11 +266,11 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devendarseervi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=devendarseervi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendarseervi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendarseervi&layout=compact&theme=default&hide_border=true" alt="Top Languages">
 
 </div>
 
@@ -280,7 +280,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devendarseervi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com?user=devendarseervi&theme=default&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
@@ -380,7 +380,7 @@ The goal is to **learn how software is actually built**.
 
 &nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/devendar-seervi-8b297437b">
 <img src="https://img.shields.io/badge/LinkedIn-Devendar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
