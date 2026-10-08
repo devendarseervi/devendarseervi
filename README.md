@@ -67,7 +67,6 @@ Git • GitHub • VS Code
 
 ## 📖 My Learning Approach
 
-```text
 Learn
   ↓
 Understand
